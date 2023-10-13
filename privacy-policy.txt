@@ -1,0 +1,34 @@
+Privacy Policy for Chrome Extension Using User Activity
+
+This privacy policy describes how the Copy To Clipboard Chrome extension collects, uses, and shares user activity.
+
+User Activity
+
+The Copy To Clipboard extension collects the following user activity:
+
+Network monitoring: The extension monitors the websites that users visit and the data that is sent and received between those websites and the user's computer.
+Clicks: The extension collects information about the websites and links that users click on.
+Mouse position: The extension collects information about the position of the user's mouse cursor on the screen.
+Scroll: The extension collects information about how much users scroll on web pages.
+Keystroke logging: The extension collects information about the keys that users press on their keyboards.
+Collection and Use of User Activity
+
+The Copy To Clipboard extension collects user activity to improve the extension's functionality and to provide users with a better experience. For example, the extension uses network monitoring data to identify and block ads, and it uses mouse position and scroll data to improve the accuracy of its click detection.
+
+The Copy To Clipboard extension does not share user activity with any third parties without the user's consent.
+
+Retention of User Activity
+
+The Copy To Clipboard extension retains user activity data for as long as necessary to provide the user with the services that they have requested and to improve the extension's functionality.
+
+Your Choices
+
+Users can choose to opt out of the collection of user activity by disabling the extension in their Chrome browser.
+
+Contact Us
+
+If you have any questions about this privacy policy, please contact us at AmazonSubtotalExtension@gmail.com.
+
+Changes to this Privacy Policy
+
+We may update this privacy policy from time to time. If we make any significant changes, we will notify you by posting a notice on our website or by sending you an email.
